@@ -1,12 +1,12 @@
 # About me
 # Samer Rihawi | Software Engineer, Lecturer & Researcher
 
-I am a dedicated **IT Lecturer and Software Engineer** with over a decade of experience bridging the gap between academic theory and industry application[cite: 11, 12]. [cite_start]Currently, I am a **PhD candidate specializing in Artificial Intelligence**, focused on developing innovative solutions in AI, IoT, and Machine Learning.
+I am a dedicated **IT Lecturer and Software Engineer** with over a decade of experience bridging the gap between academic theory and industry application. Currently, I am a **PhD holder specializing in Artificial Intelligence**, focused on developing innovative solutions in AI, IoT, and Machine Learning.
 
 ---
 
 ### 🎓 Education
-* **PhD in Artificial Intelligence (Student)** | [cite_start]Universiti Pendidikan Sultan Idris (2020 – 2026) 
+* **PhD in Artificial Intelligence** | Universiti Pendidikan Sultan Idris (2020 – 2026) 
 * **MSc in Software Engineering and Business Intelligence** | Université Blaise Pascal (Clermont-II), France 
 * **Bachelor’s Degree in Computer Software Engineering** | Aleppo University 
 
