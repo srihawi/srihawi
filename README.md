@@ -1,5 +1,5 @@
 # About me
-# Samer Rihawi | Software Engineer, Lecturer & Researcher
+# Dr. Samer Rihawi | Software Engineer, Lecturer & Researcher
 
 I am a dedicated **IT Lecturer and Software Engineer** with over a decade of experience bridging the gap between academic theory and industry application. Currently, I am a **PhD holder specializing in Artificial Intelligence**, focused on developing innovative solutions in AI, IoT, and Machine Learning.
 
