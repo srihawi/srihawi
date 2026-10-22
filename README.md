@@ -25,8 +25,8 @@ I am a dedicated **IT Lecturer and Software Engineer** with over a decade of exp
 
 ### 🔬 Research & Publications
 My research focuses on **Artificial Intelligence, IoT, and Educational Technology**. Key publications include:
-* **Data-Driven Sign Language Recognition Using Hybrid and Graph-Based Models for Real-Time Edge Intelligence (2026).
-* **Comparative Evaluation of LSTM and 3D CNN Models in a Hybrid System for IoT-Enabled Sign-to-Text Translation in Deaf Communities (2026).
+* Data-Driven Sign Language Recognition Using Hybrid and Graph-Based Models for Real-Time Edge Intelligence (2026).
+* Comparative Evaluation of LSTM and 3D CNN Models in a Hybrid System for IoT-Enabled Sign-to-Text Translation in Deaf Communities (2026).
 * **Student Interaction Recognizer (SIRM):** A Deep Learning framework for real-time engagement monitoring (2025).
 * **Virtual Teaching Assistant:** Leveraging Deep Learning for academic support (2023).
 * **IoT-Enabled Sign-to-Text:** Comparative evaluations of LSTM and 3D CNN models for accessibility (2021).
