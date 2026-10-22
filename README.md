@@ -6,7 +6,7 @@ I am a dedicated **IT Lecturer and Software Engineer** with over a decade of exp
 ---
 
 ### 🎓 Education
-* **PhD in Artificial Intelligence (Student)** | [cite_start]Universiti Pendidikan Sultan Idris (2020 – 2025) 
+* **PhD in Artificial Intelligence (Student)** | [cite_start]Universiti Pendidikan Sultan Idris (2020 – 2026) 
 * **MSc in Software Engineering and Business Intelligence** | Université Blaise Pascal (Clermont-II), France 
 * **Bachelor’s Degree in Computer Software Engineering** | Aleppo University 
 
