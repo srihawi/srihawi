@@ -25,19 +25,31 @@ I am a dedicated **IT Lecturer and Software Engineer** with over a decade of exp
 
 ### 🔬 Research & Publications
 My research focuses on **Artificial Intelligence, IoT, and Educational Technology**. Key publications include:
+* **Data-Driven Sign Language Recognition Using Hybrid and Graph-Based Models for Real-Time Edge Intelligence (2026).
+* **Comparative Evaluation of LSTM and 3D CNN Models in a Hybrid System for IoT-Enabled Sign-to-Text Translation in Deaf Communities (2026).
 * **Student Interaction Recognizer (SIRM):** A Deep Learning framework for real-time engagement monitoring (2025).
-* **IoT-Enabled Sign-to-Text:** Comparative evaluations of LSTM and 3D CNN models for accessibility.
-* **Virtual Teaching Assistant:** Leveraging Deep Learning for academic support.
-* **Anti-Malware Development:** Using heuristic approaches to build security solutions.
+* * **Virtual Teaching Assistant:** Leveraging Deep Learning for academic support (2023).
+* **IoT-Enabled Sign-to-Text:** Comparative evaluations of LSTM and 3D CNN models for accessibility (2021).
+* **Anti-Malware Development:** Using heuristic approaches to build security solutions (2018).
 
 ---
 
 ### 💼 Professional Experience
 * **Information Technology Senior Lecturer** | Liwa College, Abu Dhabi (2023 – Present) 
     * Delivering comprehensive IT classes and providing academic advising.
-* **IT Lecturer & Program Coordinator** | Al Khawarizmi International College (2015 – 2023) 
-    * Conducted AI/ML workshops and served as a technical consultant for college clients.
-    * Developed applications to assist in academic research and student capstone projects.
+    * Lead Researcher: Developed and implemented Student Engagement Monitoring System]using LSTM and 3D Convolutional Neural Networks.
+    * Curriculum Developer: Engineered industry-aligned Python and Machine Learning courses
+    * Consultant/Trainer: Provided technical expertise to cross-functional academic teams.
+* **IT Lecturer & Program Coordinator** | Al Khawarizmi International College (2015 – 2023)
+    * Delivering lectures to students in different IT topics, in particular programming languages, database management systems, and system analysis and design.
+    * Conducting workshops in different IT subjects such as Artificial Intelligence and Machine Learning.
+    * Developing and Building Apps which can help in the academic research.
+    * Serving as a Development Consultant for the college’s clients and students by aiding for the development and upgrade of their systems and projects.
+    * Contributing in writing research papers by building solutions and performing experiments.
+* **IT Technical Trainer** | Khawarizmi Training Solutions, Abu Dhabi (2010 – 2015)
+    * Structured comprehensive professional IT training curricula and delivered instruction to diverse student and adult professional populations.
+    * Formulated exhaustive training manuals, pedagogical resources, and system user guides.
+      
 * **Software Engineer Intern** | BV Associates, Paris (2009) 
     * Designed workflow automation systems for clients including French Rails.
 
